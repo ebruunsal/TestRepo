@@ -11,25 +11,26 @@
 - <kbd> Save User </kbd> button to write users information to database.
 - A user interface to enter users' information:
   1. 4 textboxes one below the other where users' *Username , Display Name , Phone , Email* information will be entered.
+  2. A dropdown button where we will select the users role:
+  3. - [ ] *Enabled* checkbox.
     > - Username:     <kbd>      </kbd> 
     > - Display Name: <kbd>      </kbd> 
     > - Phone:        <kbd>      </kbd> 
     > - Email:        <kbd>      </kbd> 
-   
-   
-   2. A dropdown button where we will select the users role:
-   <details>
-   <summary>Select user roles...</summary>
-   <br>
-    Guess
-   <br>
-    Admin
-   <br>
-    SuperAdmin
-   </details>
-   
-   
-   3. - [X] *Enabled* checkbox
+    > - User Roles:   <details>
+                      <summary>Select user roles...</summary>
+                      <br>
+                          Guess
+                      <br>
+                          Admin
+                      <br>
+                          SuperAdmin
+                      </details>
+    > -   - [X] *Enabled* 
+ 
+
+## The Behavior of The Page When Using UI Components
+- 
    
    
 
