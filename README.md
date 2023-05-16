@@ -34,6 +34,32 @@
 - A table with user information will be created.
 - This table will contain *id, username, email, enabled* fields and these fields will be filled according to the data entered in the New User page.
 - The primary key of this table will be ID field.
+- UserTable
+
+<table>
+   <thead>
+      <tr>
+         <th>ID</th>
+         <th>UserName</th>
+         <th>Email</th>
+         <th>Enabled</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>data1</td>
+         <td>data2</td>
+         <td>data3</td>
+         <td>data4</td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+         <td>data14</td>
+      </tr>
+   </tbody>
+</table>
 
    
    
