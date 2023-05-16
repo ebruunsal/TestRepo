@@ -33,7 +33,7 @@
     > -   - [X] *Enabled* 
  
 
-## Database
+## Database Design
 - The user information entered in the new user screen is transferred to this designed database.
 - A table with user information will be created.
 - This table will contain *id, username, email, enabled* fields and these fields will be filled according to the data entered in the New User page.
