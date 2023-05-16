@@ -13,7 +13,10 @@
 - A user interface to enter users' information:
   1. 4 textboxes one below the other where users' *Username , Display Name , Phone , Email* information will be entered.
   2. A dropdown button where we will select the users role:
-  3. - [ ] *Enabled* checkbox.
+  3. - [ ] *Enabled* checkbox. 
+ 
+ 
+    > New User
     > - Username:     <kbd>      </kbd> 
     > - Display Name: <kbd>      </kbd> 
     > - Phone:        <kbd>      </kbd> 
