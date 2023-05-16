@@ -9,10 +9,18 @@
 - <kbd> + New User </kbd> button to redirect new users to the web page where they are added.
 - - [X] *Hide Disabled User* checkbox to check the hide disabled user option.
 - <kbd> Save User </kbd> button to write users information to database.
-- 
-  * Alt madde a
+- A user interface to enter users' information.
+  * 4 textboxes one below the other where users' *Username , Display Name , Phone , Email* information will be entered.
   * Alt madde b
-    - Fıkra i
+    > - Username:     <kbd>""  </kbd> 
+    > - Display Name: <kbd>       </kbd> 
+    > - Phone:        <kbd>      </kbd> 
+    > - Email: <kbd>      </kbd> 
     - Fıkra ii
- - [ ] Checkbox not checked
- - [X] Checkbox checked
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+ 
