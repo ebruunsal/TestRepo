@@ -1,4 +1,5 @@
 # The User Interface Specification Document
+<p> A user interface design is requested according to the rules described below: </p>
 
 ## The Requirements
 - A dynamic web page with a button to redirect to the new user add web page.
@@ -60,6 +61,16 @@
       </tr>
    </tbody>
 </table>
+
+
+
+## What to show to the user at the beginning?
+
+   
+1. When users enter the web page to add a new user, they will first encounter the <kbd> + New User </kbd> button and *Hide Disabled User* checkbox.
+2. After clicking <kbd> + New User </kbd> button, the *New User* page will appear where users can enter the data of the new user.
+3. After filling the required information, when <kbd> Save User </kbd> button is pressed, these data will be transferred to the database.
+
 
    
    
