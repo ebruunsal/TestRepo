@@ -4,7 +4,7 @@
 ## The Requirements
 - A dynamic web page with a button to redirect to the new user add web page.
 - A dynamic web page where new users can enter their information.
-- A database where users' data is kept.
+- A database to keep users' data.
 
 ## UI Components and The Behavior of The Page When Using UI Components
 - <kbd> + New User </kbd> button to redirect new users to the web page where they are added.
@@ -70,10 +70,6 @@
 1. When users enter the web page to add a new user, they will first encounter the <kbd> + New User </kbd> button and *Hide Disabled User* checkbox.
 2. After clicking <kbd> + New User </kbd> button, the *New User* page will appear where users can enter the data of the new user.
 3. After filling the required information, when <kbd> Save User </kbd> button is pressed, these data will be transferred to the database.
-
-
-   
-   
 
 
 
